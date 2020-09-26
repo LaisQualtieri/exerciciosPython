@@ -1,0 +1,7 @@
+print("Antes de começarmos, escolha um gênero")
+print("Masculino ou feminino? (apenas para o uso de artigo) :)")
+print("Digite a, o ou outro artigo de sua preferência como x ou e")
+g=input()
+print("Qual seu nome?")
+nome=input()
+print("Bem-vind" +g+ " " +nome+ "! Vamos começar o jogo :)")

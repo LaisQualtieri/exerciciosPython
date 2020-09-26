@@ -1,0 +1,12 @@
+print("Digite um número ")
+number1=input()
+print("Digite outro número ")
+number2=input()
+print(number1+number2)
+
+print("Digite um número ")
+number1=int(input())
+print("Digite outro número ")
+number2=int(input())
+soma=(number1+number2)
+print("resultado", soma)
